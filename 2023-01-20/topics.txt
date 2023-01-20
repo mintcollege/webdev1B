@@ -1,0 +1,22 @@
+F2f
+OS
+Browser
+    - Multiple
+First timers
+    - It's just code
+IDE/Software
+    - Pick one
+    - Create your project folder
+Discord server
+    - change name
+    - posting code
+Github repository
+Google Drive
+Submissions
+
+NOTES:
+1. No spaces
+2. All files in lowercase
+3. No special characters
+
+
