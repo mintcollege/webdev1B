@@ -1,0 +1,17 @@
+h1 {
+    color: #333333;
+    font-size: 40px;
+}
+header h2 {
+    color: #42ce26;
+    font-size: 16px;
+    font-style: italic;
+}
+p {
+    /* Style for the p tag */
+    color: #333333;
+}
+body {
+    background: #efefef;
+    font-family: Frutiger, "Frutiger Linotype", Univers, Calibri, "Gill Sans", "Gill Sans MT", "Myriad Pro", Myriad, "DejaVu Sans Condensed", "Liberation Sans", "Nimbus Sans L", Tahoma, Geneva, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
